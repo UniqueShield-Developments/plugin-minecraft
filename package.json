@@ -1,0 +1,26 @@
+{
+  "name": "@uniqueshield-dev/plugin-minecraft",
+  "version": "0.0.1",
+  "description": "The types for the @uniqueshield-dev/plugin-minecraft plugin module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UniqueShield-Developments/plugin-minecraft.git"
+  },
+  "keywords": [
+    "plugin",
+    "minecraft",
+    "uniqueshield"
+  ],
+  "author": "Hermetic.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UniqueShield-Developments/plugin-minecraft/issues"
+  },
+  "homepage": "https://github.com/UniqueShield-Developments/plugin-minecraft#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
